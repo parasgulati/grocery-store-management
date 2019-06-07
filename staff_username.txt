@@ -1,0 +1,4 @@
+paras	gulati
+gu	gu
+garvgulati	123
+parasgulati	paras

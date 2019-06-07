@@ -1,0 +1,7 @@
+soap 343 45
+ballon 390 20
+clock 110 500
+pen 40 10
+eraser 78 10
+bottle 999 700
+pen 555 5
